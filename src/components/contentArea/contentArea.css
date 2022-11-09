@@ -1,0 +1,9 @@
+.content-area-container{
+    border: solid;
+    height: 70%;
+    padding: 20px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

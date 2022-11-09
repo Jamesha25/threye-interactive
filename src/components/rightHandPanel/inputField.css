@@ -1,0 +1,15 @@
+.labels{
+    text-transform: capitalize;
+}
+input, select{
+    padding: 5px 10px;
+    width: 120px;
+}
+.input-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.input-container .edit-btn{
+    cursor: pointer;
+}

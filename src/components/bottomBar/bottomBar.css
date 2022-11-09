@@ -1,0 +1,15 @@
+.bottom-bar-container{
+    border: solid;
+    height: 30%;
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    overflow-x: auto;
+}
+
+
+.bottom-bar-container .tiles-container{
+    display: flex;
+    gap: 10px;
+}

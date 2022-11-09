@@ -1,0 +1,21 @@
+.forms-container form{
+    border: solid;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:15px
+}
+
+.forms-container .form-title{
+    text-align: center;
+}
+
+.forms-container .button-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.forms-container .button-container button{
+    padding: 5px 10px;
+}
